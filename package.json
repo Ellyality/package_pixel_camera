@@ -1,0 +1,16 @@
+{
+	"name": "com.ellyality.camera.pixel",
+	"displayName":"Pixel Camera",
+	"version": "1.0.0",
+    "author": "Elly Visual",
+    "unity": "2019.2",
+    "keywords": ["ocean", "crest", "shader", "visual"],
+    "category": "engineering",
+    "license": "LICENSE",
+	"description": "Pixel Perfect Camera",
+    "documentationUrl": "https://github.com/Ellyality/package_pixel_camera/blob/main/README.md",
+    "samples":[
+    ],
+    "dependencies": {
+    }
+}

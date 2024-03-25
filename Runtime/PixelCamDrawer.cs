@@ -3,8 +3,8 @@
 namespace SubjectNerd.Utilities
 {
 	[ExecuteInEditMode]
-	[AddComponentMenu("")]
-	public class PixelCamDrawer : MonoBehaviour
+    [AddComponentMenu("Ellyality/Camera/Pixel Camera Drawer")]
+    public class PixelCamDrawer : MonoBehaviour
 	{
 		/*
 		This class sits on a hidden camera that draws nothing, the pixel camera output

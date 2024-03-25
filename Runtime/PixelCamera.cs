@@ -5,6 +5,7 @@ namespace SubjectNerd.Utilities
 {
 	[ExecuteInEditMode]
 	[RequireComponent(typeof(Camera))]
+	[AddComponentMenu("Ellyality/Camera/Pixel Camera")]
 	public class PixelCamera : MonoBehaviour
 	{
 		[Serializable]
